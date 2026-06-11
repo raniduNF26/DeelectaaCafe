@@ -269,15 +269,14 @@ const Home = () => {
               transition={{ duration: 0.8 }}
               className="relative z-10 max-w-xl"
             >
-              <span className="text-primary font-bold uppercase tracking-widest text-sm mb-4 block">Limited Time</span>
               <h2 className="text-5xl md:text-6xl lg:text-7xl font-black text-white mb-8 leading-tight">
-                Savor the <br />
+                Enjoy Fresh Flavors <br />
                 <span className="text-transparent bg-clip-text bg-gradient-to-r from-primary to-red-400">
-                  Specialty Brews
+                  Every Day
                 </span>
               </h2>
               <p className="text-stone-400 text-lg mb-10 leading-relaxed">
-                Our seasonal menu features unique blends and flavors inspired by the current harvest. Carefully curated by our master roasters to bring you an unparalleled tasting experience.
+                Discover our signature beverages, delicious treats, and refreshing selections made to satisfy every craving. Carefully prepared using quality ingredients to deliver a delightful experience with every visit.
               </p>
               <Link to="/menu" className="bg-primary text-white px-10 py-4 rounded-full font-bold text-lg hover:bg-white hover:text-stone-900 transition-all duration-300 shadow-xl shadow-primary/30 flex items-center space-x-3 group w-max">
                 <span>View Menu</span>
