@@ -3,6 +3,4 @@ node_modules/
 .DS_Store
 dist/
 build/
-*.mp4
-frontend/public/*.jpg
-frontend/public/*.png
+frontend/public/video.mp4
